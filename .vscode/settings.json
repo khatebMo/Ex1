@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "adptarray.h": "c",
+        "stdio.h": "c"
+    }
+}
